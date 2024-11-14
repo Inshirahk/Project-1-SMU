@@ -15,7 +15,8 @@ DATE:
 
 Background
       
-      Does social media use negatively impact our mental health? Is the impact different depending on age? Gender? 
+      Does social media use negatively impact our mental health? 
+      Is the impact different depending on age? Gender? 
       Do the hours spent on social media correlate negatively with mental health score? 
       Do hours spent on gaming correlate to mental health negatively?
 
