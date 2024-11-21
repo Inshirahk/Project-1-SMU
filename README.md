@@ -13,6 +13,7 @@ DATE:
       
 # Abstract
 Background
+      
       This project explores the relationship between recreational technology use—specifically social media and gaming—and mental health. We sought to answer the following questions:
 
       Does social media use negatively impact mental health?
@@ -22,6 +23,7 @@ Background
 
 
 Methods
+      
       We analyzed a dataset of 1,000 individuals, examining daily technology usage and mental health indicators. The dataset contained the following columns:
 
                   User_ID: Unique identifier for each individual
@@ -40,10 +42,11 @@ Methods
                   Online_Support_Usage: Use of online resources for emotional support
                   
 Hypotheses
+      
       Alternative Hypothesis: Social media use negatively impacts mental health.
       Null Hypothesis: Social media use has no impact or positively influences mental health.
       
-Results
+# Results
 Key Findings
 Social Media Usage:
       A weak negative correlation was found between social media usage and mental health scores. Individuals with higher usage hours tended to report slightly poorer mental health.
